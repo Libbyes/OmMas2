@@ -1,6 +1,12 @@
-# static.py
+
 
 HTML = """
+Always with you  
+through lightning and above the clouds  
+wherever you are  
+Always with you with no borders 
+there’s no distance that can tear us apart
+"""
 <!DOCTYPE html>
 <html>
 <head>
